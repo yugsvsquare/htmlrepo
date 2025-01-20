@@ -1,0 +1,1 @@
+[{"id": 1, "review": "This product is amazing!", "metadata": {"rating": 5, "category": "Electronics"}}, {"id": 2, "review": "The product did not meet my expectations.", "metadata": {"rating": 2, "category": "Home Appliances"}}, {"id": 3, "review": "Reasonably good for the price.", "metadata": {"rating": 4, "category": "Electronics"}}]
